@@ -1,8 +1,8 @@
-def add_two"("a+b")":
+def add_two(a,b):
     return(a+b)
-def sub_two("a-b"):
-    return(a-b)
-def mul_two("a*b"):
+def sub_two(a,b):
+    return(a,b)
+def mul_two(a,b):
     return(a*b)
 def div_two("a/b"):
     return(a/b)
