@@ -1,0 +1,12 @@
+set1={'green','blue'}
+set2={'blue','yellow'}
+print(set1)
+print(set2)
+a=set1.intersection(set2)
+print(a)
+a=set1.union(set2)
+print(a)
+a=set1.difference(set2)
+print(a)
+a=set1.symmetric_difference(set2)
+print(a)

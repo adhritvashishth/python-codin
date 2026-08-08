@@ -1,0 +1,12 @@
+my_set={1,2,3}
+print(my_set)
+my_set={1,'yes',4.3,(1,2,3,4)}
+print(my_set)
+m_set={1,2,3,4,3,2}
+print(m_set,"\n")
+a=set([1,2,3,2])
+print(a)
+original_set=set([0,1,3,4,5])
+print(original_set)
+original_set.pop()
+print(original_set)
